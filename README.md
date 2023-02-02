@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Asif Patel</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-## :man-raising-hand: About Me
+🙋‍♂️: About Me
+<hr/>
 - 🔭 I’m currently pursuing Full Stack Web Development course from **[Masai School](https://www.masaischool.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
