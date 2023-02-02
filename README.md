@@ -35,10 +35,10 @@
 
 <h3 align="left">📊 My Github Stats:</h3>
 <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifpatel068&show_icons=true&locale=en&layout=compact" alt="asifpatel068" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifpatel068&show_icons=true&locale=en" alt="asifpatel068" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifpatel068&show_icons=true&locale=en&layout=compact" alt="asifpatel068" /></p>
 <p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -47,12 +47,6 @@
 <br/>
 </p>
 
-
-
-
-
-<br/>
-<br/>
 
 
 <h3 align="left">Connect with me:</h3>
