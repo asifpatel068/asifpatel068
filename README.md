@@ -30,21 +30,22 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifpatel068&" alt="asifpatel068" />
+  
 </p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifpatel068&" alt="asifpatel068" />
 
 <h3 align="left">📊 My Github Stats:</h3>
 <p align="left">
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifpatel068&show_icons=true&locale=en" alt="asifpatel068" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifpatel068&show_icons=true&locale=en&layout=compact" alt="asifpatel068" /></p>
+ <br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asifpatel068&show_icons=true&locale=en" alt="asifpatel068" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifpatel068&show_icons=true&locale=en&layout=compact" alt="asifpatel068" /></p>
 <p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 <br/>
-<br/>
+
 </p>
 
 
