@@ -32,14 +32,17 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   
 </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifpatel068&" alt="asifpatel068" />
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifpatel068&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="asifpatel068" /></p>
+<br/>
+
 
 <h3 align="left">📊 My Github Stats:</h3>
 <p align="left">
 
- <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asifpatel068&show_icons=true&locale=en" alt="asifpatel068" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifpatel068&show_icons=true&locale=en&layout=compact" alt="asifpatel068" /></p>
+ 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asifpatel068&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="asifpatel068" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifpatel068&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="asifpatel068" /></p>
 <p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
